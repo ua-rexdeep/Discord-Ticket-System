@@ -26,4 +26,5 @@
 
 
 ## Credits
-[@ua-rexdeep](https://github.com/ua-rexdeep) | Discord: [UA] ReXDeep#5857
+* GitHub: [@ua-rexdeep](https://github.com/ua-rexdeep) 
+* Discord: [UA] ReXDeep#5857
